@@ -9,9 +9,6 @@ const App = () => {
 
     return (
       <div>
-      /*
-        // <Hello name={this.state.name} />
-        */
         <p>
           Start editing to see some magic happen :)
         </p>
